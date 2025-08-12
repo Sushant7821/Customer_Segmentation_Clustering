@@ -73,3 +73,8 @@ This project is licensed under the MIT License - feel free to use and modify it.
 **Sushant Kailash Kakde**  
 GitHub: Sushant7821((https://github.com/Sushant7821))
 
+## 🤝 Connect with Me
+
+Feel free to connect on (www.linkedin.com/in/sushant-kakde-21b956325).
+
+ to discuss data science, machine learning, and more!
