@@ -55,4 +55,21 @@ _Source_: Publicly available sample dataset from Kaggle / UCI Machine Learning R
 
 ## 🚀 How to Run
 1. Clone the repository: https://github.com/Sushant7821/Customer_Segmentation_Clustering
+   ---
+
+## 📌 Future Improvements
+- Try other clustering algorithms like DBSCAN or Hierarchical Clustering.
+- Include more behavioral features for better segmentation.
+- Build an interactive dashboard using Power BI or Tableau.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - feel free to use and modify it.
+
+---
+
+## 👤 Author
+**Sushant Kailash Kakde**  
+GitHub: Sushant7821((https://github.com/Sushant7821))
 
